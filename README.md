@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Javier. I love building websites and productivity tools :raised_hands: 
+I'm Javier Vargas. I love building websites and productivity tools :raised_hands: 
 
 <!-- 🔭 I’m currently working on [TODO](https://github.com/javierdebug/XXX) -->
 
