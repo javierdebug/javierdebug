@@ -13,7 +13,7 @@ I'm Javier Vargas. I love building websites and productivity tools :raised_hands
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 15th, 2025, 4:19:39 PM
+Last Updated: Friday, August 15th, 2025, 4:38:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -27,10 +27,5 @@ Last Updated: Friday, August 15th, 2025, 4:19:39 PM
 8. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
 9. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
 10. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-11. ❗️ Opened issue [#1](https://github.com/javierdebug/javierdebug/issues/1) in [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-12. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-13. ⬆️ Pushed 1 commit(s) to [javierdebug/dotfiles](https://github.com/javierdebug/dotfiles)
-14. ⬆️ Pushed 1 commit(s) to [javierdebug/activity-box](https://github.com/javierdebug/activity-box)
-15. ❗️ Opened issue [#48](https://github.com/JasonEtco/activity-box/issues/48) in [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box)
 <!--RECENT_ACTIVITY:end-->
 ---
