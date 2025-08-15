@@ -1,7 +1,7 @@
 settings:
   username: "javierdebug" 
   commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 15
+  max_lines: 10
   readme_file: "./README.md"
   disabled_events:
     - "comments"
