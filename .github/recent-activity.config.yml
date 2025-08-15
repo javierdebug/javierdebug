@@ -12,8 +12,8 @@ settings:
     timezone: "GMT-5:00"
     text: "Last Updated: {DATE}"
     #format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-  ignored_repos:
-    - "javierdebug/javierdebug"
+  ignored_repos: [javierdebug/javierdebug]
+
 messages:
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"
