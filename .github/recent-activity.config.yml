@@ -1,7 +1,7 @@
 settings:
   username: "javierdebug" 
   commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 10
+  max_lines: 30
   readme_file: "./README.md"
   disabled_events:
     - "comments"
@@ -13,7 +13,6 @@ settings:
     text: "Last Updated: {DATE}"
     #format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   ignored_repos: [javierdebug/javierdebug]
-
 messages:
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"
