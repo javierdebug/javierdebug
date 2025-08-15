@@ -2,12 +2,14 @@ settings:
   username: "javierdebug" 
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 5
-  readme_file: "./TEMPLATE.md"
+  readme_file: "./README.md"
   disabled_events:
     - "comments"
+    - "star"
+    - "create_repo"
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT+00:00"
+    timezone: "America/Bogota"
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "readme-bot"
