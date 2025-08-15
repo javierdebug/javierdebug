@@ -12,7 +12,19 @@ I'm Javier Vargas. I love building websites and productivity tools :raised_hands
 ---
 
 ### :zap: Recent Activity
+<!--RECENT_ACTIVITY:last_update-->
+
 <!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:last_update-->
+
+
+
+
+
+
+
+
+
+
+<!--RECENT_ACTIVITY:end-->
 ---
