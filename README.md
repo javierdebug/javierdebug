@@ -11,21 +11,4 @@ I'm Javier Vargas. I love building websites and productivity tools :raised_hands
 
 ---
 
-### :zap: Recent Activity
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 22nd, 2025, 10:05:02 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [javierdebug/JVBOT](https://github.com/javierdebug/JVBOT)
-2. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-3. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-4. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-5. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-6. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-7. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-8. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-9. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-10. ⬆️ Pushed 1 commit(s) to [javierdebug/javierdebug](https://github.com/javierdebug/javierdebug)
-<!--RECENT_ACTIVITY:end-->
 ---
